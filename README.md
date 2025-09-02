@@ -17,13 +17,17 @@ Este é o meu portfólio dedicado a projetos reais e de impacto, desenvolvidos c
 
 * Linguagens: JavaScript, Java, C#
 
-* Frameworks & Bibliotecas: React, Node.js, .NET, Express
+* Frameworks & Bibliotecas: React, React Native, .NET, Kotlin
 
-* Banco de Dados: PostgreSQL, SQL Server, MySQL
+* Banco de Dados: SQL Server
 
-* DevOps & Cloud: Docker, GitHub Actions, AWS
+* DevOps & Cloud: 
 
 * Outros: REST APIs
+
+# Formações
+* Análise e Desenvolvimento de Sistemas - PUC Minas
+* Desenvolvimento de Sistemas - SENAI
 
 # 📫 Contato
 * Número: 31 97126-3554
